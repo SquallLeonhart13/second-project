@@ -1,0 +1,11 @@
+VPC_ID=vpc-0ae43a26f5731510e
+SUBNET_1=subnet-0ea14f4316d038489
+SUBNET_2=subnet-06c8fe6bf3f22106d
+SECURITY_GROUP_ID=sg-02f9f79b30e2d3667
+ROUTE_TABLE_ID=rtb-0fb4891538b3e0a4f
+INTERNET_GATEWAY_ID=igw-0eaed9ba73323c3a6
+ECS_SERVICE_NAME=second-project-dev-service
+ECS_CLUSTER_NAME=second-project-dev-cluster
+ECS_TASK_FAMILY=second-project-dev-task
+AWS_REGION=us-east-1
+ECS_REPOSITORY_NAME=second-project-repo
